@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #f4f4f4;
+  background-color: #cfcfcf !important;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
@@ -15,18 +15,17 @@ body {
 }
 
 h4 {
-  color: rgb(12, 206, 164);
+  color: rgb(10, 179, 142);
 }
 
-hr
-{
-border:solid 1px black;
-width: 300px;
-color: #FFFF00;
-height: 1px;
+hr {
+  border: solid 1px black;
+  width: 300px;
+  height: 1px;
 }
 
-#tip-amount,#bill-total {
+#tip-amount,
+#bill-total {
   font-weight: bold;
 }
 
