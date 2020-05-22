@@ -65,7 +65,7 @@ input[type="number"] {
 }
 
 .calculator {
-  width: 325px;
+  width: 400px;
   display: flex;
   flex-flow: column;
 }
